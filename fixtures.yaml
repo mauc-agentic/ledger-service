@@ -1,0 +1,5 @@
+cuentas:
+  - id: 1
+    nombre: Caja
+  - id: 2
+    nombre: Bancos
